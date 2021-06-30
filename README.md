@@ -1,5 +1,3 @@
-# test-uuid
-
 ## Usage
 
 ```sh
